@@ -5,9 +5,15 @@
 
 #two {
     color: blue;
-    font-size: 36;
+    font-size: 36px;
 }
 
 .three {
-    font-size: 24;
+    font-size: 24px;
+}
+
+#four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
 }
